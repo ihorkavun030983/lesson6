@@ -67,11 +67,16 @@ body{
 .childcontainer2-float{
     height: 200px;
 }
+.container3{
+    float: left;
+    width: 400px;
+}
 
 .childcontainer3-float{
     width: 400px;
     height: 133px;
 }
+
 .container4{
     width: 400px;
     height: 400px;
